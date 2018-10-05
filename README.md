@@ -1,2 +1,5 @@
 # LinuxDocumentations
-Concepts,Documentations,Learning,Commands work out
+- Concepts
+- Documentations
+- Learning 
+- Commands work out

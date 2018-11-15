@@ -3,3 +3,4 @@
 - Documentations
 - Learning 
 - Commands work out
+- Errors
